@@ -1,0 +1,15 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Hair color",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Bleu-vert"
+      }
+    ],
+    "description": "Arnaud",
+    "image": "https://gateway.pinata.cloud/ipfs/QmayDn2KjygywMT1GFpB4map9Pbs8A4XVyNv3atM9DmijA/Arnaud.png",
+    "name": "arnaudlastar"
+  }
