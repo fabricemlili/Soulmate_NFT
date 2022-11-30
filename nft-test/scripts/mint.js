@@ -11,7 +11,7 @@ async function main() {
   const NFTEvent = await hre.ethers.getContractFactory("MyNFT");
   const nFTevent = await NFTEvent.attach("0xf3f74442fde851e6849f8fe9a98649d7e60c3922");
 
-  await nFTevent.mintNFT("0x44Dc68892A17ea60E98dB3194AE8667DDDeC6900", "https://gateway.pinata.cloud/ipfs/QmXLeDjwiFc2fmR3SRTsgX4j3YQ1i9feeETmbtSWdZPMHT");
+  await nFTevent.mintNFT("0x44Dc68892A17ea60E98dB3194AE8667DDDeC6900", "https://gateway.pinata.cloud/ipfs/QmSFfXdM5EdXkMA5ipxsZPWQNarLPdCafXEZFdLyeS37FY");
 
   console.log(
     ` deployed to ${nFTevent.address}`
