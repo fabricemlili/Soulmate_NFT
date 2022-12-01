@@ -27,7 +27,7 @@ Or  with npm
 npm install hardhat 
 ```
 
-## 1) Tranform a picture of you
+## 2) Tranform a picture of you
 
 Firstly, run the create_photo.py and enter the path of your picture file after the "Enter the path of the image: " message.
 ```jsxs
@@ -36,12 +36,12 @@ python3 create_photo.py
 
 Once the pixalating is finished, you can find your picture pixalated at the same path that the basic picture.
 
-## 2) Make the picture a NFT
+## 3) Make the picture a NFT
 
 Now, we need to use the image pixaleted to make it a NFT. To do it, you need to be registered on pinata. Create an account if 
 doesn't make it yet. https://www.pinata.cloud
 
 Upload the pixalated image on your pinata collection. Input you
 
-## 3) Connect your NFT to the blockchain
+## 4) Connect your NFT to the blockchain
 
