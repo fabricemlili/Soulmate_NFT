@@ -2,7 +2,7 @@
 
 ## 1) Requirements
 
-You can create your own environment if you want but here we just give keys to get all the requirements by installing.
+You can create your own environment if you want but here we are just giving the keys to get all the requirements by installing them.
 
 **install skimage:**  
 
@@ -64,6 +64,6 @@ Paste the result given by the command it is the address that we will need for th
 
 ## 6) Look in OpenSea
 Go into this link: 
-https://testnets.opensea.io/assets/mumbai/smart-contract-address/YOUR-TOKEN-ID \
-Replace with your smart contract address \
-YOUR-TOKEN-ID refers to the number of time you ran your deploy if it is your first it is then 1
+https://testnets.opensea.io/collection/mynft-qyfkoyd82e
+
+You will see your NFT and all the NFT created.
