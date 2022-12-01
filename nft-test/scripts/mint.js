@@ -9,7 +9,7 @@ const hre = require("hardhat");
 async function main() {
 
   const NFTEvent = await hre.ethers.getContractFactory("MyNFT");
-  const nFTevent = await NFTEvent.attach("0xf3f74442fde851e6849f8fe9a98649d7e60c3922");
+  const nFTevent = await NFTEvent.attach("0x2f72d687FbA89A35627B868401849bdA43cf496F");
 
   await nFTevent.mintNFT("0x44Dc68892A17ea60E98dB3194AE8667DDDeC6900", "https://gateway.pinata.cloud/ipfs/QmSFfXdM5EdXkMA5ipxsZPWQNarLPdCafXEZFdLyeS37FY");
 
